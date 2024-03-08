@@ -29,17 +29,14 @@ public class Board extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String title = request.getParameter("title"); 
 		String writer = request .getParameter ("writer"); 
-		String content = request.getParameter ("content"); 
-		Date date = new Date(0); 
-		response.setContentType("text/html;clnarset=utf-8"); 
-		PrintWriter out = response.getWriter(); 
-		out.println("<html><body><h1>거시판</h1>"); 
-		out.println ("제목 : " + title +"<p>"); 
-		out.println ("작성자 : " + writer +"<p>"); 
-		out.println ("작성일 : 0 "+ date +"<p>");
-		out.println("내용 <br><pre>" + content + "</pre>" );
-		out.println("</body></html>"); 
-		out.close();
+	//adssssssss
+		//adssssssss
+		//adssssssss
+		//adssssssss
+		//adssssssss
+		//adssssssss
+		//adssssssss
+		//adssssssss
 	}
 
 	/**
