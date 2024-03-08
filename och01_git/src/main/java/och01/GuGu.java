@@ -31,16 +31,7 @@ public class GuGu extends HttpServlet {
 		request.setCharacterEncoding("utf-8");
 		response.setContentType("text/html; charset=utf-8");
 		
-		
-		PrintWriter out =response.getWriter();//getWriter=문자형식을 보내는...
-		out.println("<html><body>");
-		out.printf("<h1>%d 단 결과입니다!<h1>",num); //순서대로 적용해준다 이는 자바책에도 나와있다 찾아보도록하자!
-		for (int i = 1; i <= 9; i++) {
-	        int result = num * i;
-	        out.printf("<p>%d * %d = %d</p>", num, i, result);
-	    }
-		out.println("</body></html>");
-		out.close();
+
 	}
 
 	/**
