@@ -31,7 +31,11 @@ public class GuGu extends HttpServlet {
 		request.setCharacterEncoding("utf-8");
 		response.setContentType("text/html; charset=utf-8");
 		
-
+//asdasdjhnasidjio
+//asdasdjhnasidjio
+//asdasdjhnasidjio
+//asdasdjhnasidjio
+//asdasdjhnasidjio
 	}
 
 	/**
