@@ -51,23 +51,7 @@ public class Add3 extends HttpServlet {
 		
 		
 		
-		// 로컬 마스터용3
-		// 로컬 마스터용3
-		// 로컬 마스터용3
-		// 로컬 마스터용3
-		
-		// 로컬 마스터용4
-//sasa12
-//sasa
-//sasa
-//sasa
-	
-		
-		//sadasds
-		//sadasds
-		//sadasds
-		//sadasds
-////dhdkjkd안녕?!!!!
+		// 로컬 마스터용234
 		
 		
 		
